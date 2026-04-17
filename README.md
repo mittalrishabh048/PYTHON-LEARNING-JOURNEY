@@ -13,4 +13,16 @@ This repository contains my daily Python learning progress, practice, and mini p
 To build strong programming skills and move towards AI/ML and software development.
 
 ## 📈 Progress
-I update this repository daily with my practice work.eting Program)
+I update this repository daily with my practice work.
+
+
+## 📅 Week 1 Completed ✅
+
+Learned:
+- Basics of Python
+- Variables, Data Types
+- Input/Output
+- Type Conversion
+
+Built:
+- Greeting Program 🎉
