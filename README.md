@@ -26,3 +26,13 @@ Learned:
 
 Built:
 - Greeting Program 🎉
+
+
+## 📅 Week 2 Completed ✅
+
+Learned:
+- Arithmetic, Comparison, Logical, Assignment Operators
+- If, If-Else, Elif Conditions
+
+Built:
+- Budget Helper 🧮
