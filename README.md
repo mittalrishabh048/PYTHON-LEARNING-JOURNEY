@@ -36,3 +36,15 @@ Learned:
 
 Built:
 - Budget Helper 🧮
+
+
+## 📅 Week 3 Completed ✅
+
+Learned:
+- For loop, while loop
+- Range function
+- Break & continue
+- Nested loops and patterns
+
+Built:
+- Guess the Password Game 🎮
