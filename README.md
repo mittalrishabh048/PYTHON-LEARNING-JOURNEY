@@ -48,3 +48,16 @@ Learned:
 
 Built:
 - Guess the Password Game 🎮
+
+
+## 📅 Week 4 Completed ✅
+
+Learned:
+- Lists and List Methods
+- Tuples
+- Sets
+- Dictionaries
+- Dictionary Methods
+
+Built:
+- Profile Manager🎉
