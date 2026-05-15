@@ -61,3 +61,14 @@ Learned:
 
 Built:
 - Profile Manager🎉
+
+
+## 📅 Week 5 Completed ✅
+
+Learned:
+- Functions
+- Parameters
+- Return values
+- Recursions
+
+- Practiced Some Programs
